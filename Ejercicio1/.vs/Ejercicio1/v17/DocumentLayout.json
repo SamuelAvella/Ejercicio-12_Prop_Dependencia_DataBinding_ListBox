@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1312ED-5393-49F5-84E8-D267BE76EA2E}|Ejercicio1.csproj|c:\\users\\saveper1907\\desktop\\2dam\\di\\c#\\ejcontrolesbasicos\\ejercicio 12_prop_dependencia_databinding_listbox\\ejercicio1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A1312ED-5393-49F5-84E8-D267BE76EA2E}|Ejercicio1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1312ED-5393-49F5-84E8-D267BE76EA2E}|Ejercicio1.csproj|C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\\Ejercicio1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1312ED-5393-49F5-84E8-D267BE76EA2E}|Ejercicio1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\\Ejercicio1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\\Ejercicio1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T07:46:22.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\\Ejercicio1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\saveper1907\\Desktop\\2DAM\\DI\\C#\\EjControlesBasicos\\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\\Ejercicio1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:46:21.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

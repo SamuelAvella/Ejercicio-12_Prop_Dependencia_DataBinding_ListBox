@@ -1,42 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+﻿using System.Windows;
 
-namespace Ejercicio1
+public partial class MainWindow : Window
 {
-    /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
+    // Definir la DependencyProperty
+    public static readonly DependencyProperty TamañoTextoProperty =
+        DependencyProperty.Register(
+            "TamañoTexto", // Nombre de la propiedad
+            typeof(double), // Tipo de la propiedad
+            typeof(MainWindow), // Tipo de la clase que contiene la propiedad
+            new PropertyMetadata(12.0)); // Valor predeterminado
+
+    // Propiedad pública que envuelve la DependencyProperty
+    public double TamañoTexto
     {
-        public int TamañoDeTexto
-        {
-            get { return (int)GetValue(TamañoDeTextoProperty); }
-            set { SetValue(TamañoDeTextoProperty, value);}
-        }
+        get { return (double)GetValue(TamañoTextoProperty); }
+        set { SetValue(TamañoTextoProperty, value); }
+    }
 
-        public static readonly DependencyProperty TamañoDeTextoProperty =
-            DependencyProperty.Register("TamañoDeTexto", typeof(int), typeof(MainWindow), new PropertyMetadata(12));
-        public MainWindow()
-        {
-            InitializeComponent();
-            this.DataContext = this;
-        }
+    public MainWindow()
+    {
+        InitializeComponent();
+        this.DataContext = this; // Establecer el DataContext de la ventana al propio objeto
+    }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        { 
-            TamañoDeTexto += 2;
-        }
+    private void Button_Click(object sender, RoutedEventArgs e)
+    {
+        TamañoTexto += 2.0; // Aumentar el tamaño del texto al hacer clic
     }
 }

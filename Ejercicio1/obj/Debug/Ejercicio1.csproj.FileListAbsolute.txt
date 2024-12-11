@@ -13,3 +13,17 @@ C:\Users\saveper1907\Desktop\2DAM\DI\C#\EjControlesBasicos\Ejercicio 12_Prop_Dep
 C:\Users\saveper1907\Desktop\2DAM\DI\C#\EjControlesBasicos\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
 C:\Users\saveper1907\Desktop\2DAM\DI\C#\EjControlesBasicos\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\saveper1907\Desktop\2DAM\DI\C#\EjControlesBasicos\Ejercicio 12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.pdb
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\MainWindow.g.cs
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\App.g.cs
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1_MarkupCompile.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\MainWindow.baml
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.g.resources
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-12_Prop_Dependencia_DataBinding_ListBox\Ejercicio1\obj\Debug\Ejercicio1.pdb
